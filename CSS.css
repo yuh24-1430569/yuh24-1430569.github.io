@@ -1,0 +1,78 @@
+body{
+    color: purple;
+    background-image: url('DW.jpg');
+    font-family:"Bahiana";
+    
+}
+
+legend{
+    color:Red;
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 30px;
+    border: solid 2px saddlebrown;
+    text-align:center;
+    font-family:"Pangolin"
+}
+
+label{
+    color:sandybrown;
+    
+}
+
+i{
+    color: lightblue;
+
+
+}
+h2{
+    width:500px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 10px;
+    border: solid 8px saddlebrown;
+    text-align:center;
+    font-family:"Indie Flower"
+
+}
+
+li{
+
+}
+
+#Header{
+    width:500px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 10px;
+    border: solid 8px pink;
+}
+
+#Header h1{}
+
+}
+
+#LeftNav{
+
+}
+
+#LeftNav img{
+
+}
+
+#LeftNav ul{
+
+}
+
+#LeftNav h3{
+
+}
+
+#Content{
+
+}
+
+#Footer{
+
+}
